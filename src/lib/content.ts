@@ -35,7 +35,7 @@ export const PROJECTS: Project[] = [
     title: 'Smart Garment Production Tracking and Optimization System (Group Project)',
     role: 'Frontend Developer (Garment Line Supervisor Module) & Partial Backend Developer',
     description:
-      'A shipment tracking system built with Flutter and Firebase/Firestore. Features editable ID validation, adjusted weight/volume calculations, PDF/Excel export, and Syncfusion DataGrid for powerful data management.',
+      'A smart production monitoring system using React.js, Node.js, MongoDB, RFID, and IoT concepts to track garment production, worker performance, and operational efficiency through real-time dashboards and data visualization.',
     tech: ['React.js', 'Tailwind CSS', 'MongoDB', 'RFID', 'IoT Concepts'],
     link: '#', 
     github: '#', 
@@ -45,18 +45,18 @@ export const PROJECTS: Project[] = [
     title: 'Plant HouseWebsite – Leaf and Petals (Personal Project)',
     role: 'Frontend Developer',
     description:
-      'Redesigned a radio/streaming mobile app with a Spotify-style mini player, full-screen player with slide-up transitions, and bilingual support (English & Sinhala). Built with Flutter.',
+      'A responsive plant e-commerce web application built with React.js and Tailwind CSS, featuring product listings, authentication, shopping cart, and checkout interfaces with a modern user-friendly design.',
     tech: ['React.js', 'Tailwind CSS', 'Vercel'],
     link: 'https://my-portfolio-7evq.vercel.app/assets/my_plantshop-DHgJ4rP0.mp4',
     github: 'https://github.com/RRSavindi/Leaf-Petal.git',
     accent: 'from-emerald-500/20 to-teal-500/10',
   },
   {
-    title: 'Boba Tea Shop Web App (Personal Project)',
+    title: 'Coffee Shop Web App (Personal Project)',
     role: 'Frontend Developer',
     description:
-      'A modern and visually appealing boba tea shop website designed to showcase beverages, menu items, and shop information. The application provides an engaging user experience with a responsive design, attractive product presentation, and smooth navigation across different devices.',
-    tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS'],
+      'A modern and visually appealing coffee shop website designed to showcase beverages, menu items, and shop information. The application provides an engaging user experience with a responsive design, attractive product presentation, and smooth navigation across different devices.',
+    tech: ['Next.js', 'Tailwind CSS'],
     link: '',
     github: '#',
     accent: 'from-purple-500/20 to-fuchsia-500/10',

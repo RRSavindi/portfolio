@@ -6,8 +6,8 @@ import { useReducedMotion } from '../hooks/useReducedMotion';
 
 const FACTS = [
   { icon: MapPin, label: 'Based in', value: SITE.location },
-  { icon: Briefcase, label: 'Currently', value: `${SITE.currentRole} at ${SITE.currentCompany}` },
-  { icon: Code2, label: 'Focus', value: 'Frontend Development, UI/UX Design, Full-Stack Development' },
+  { icon: Briefcase, label: 'Experience', value: `${SITE.currentRole} at ${SITE.currentCompany}` },
+  { icon: Code2, label: 'Focus', value: 'Software Development, Frontend Development, UI/UX Design, Full-Stack Development' },
   { icon: GraduationCap, label: 'Education', value: 'Institute of Technology - University of Moratuwa (NDT)' },
 ];
 
