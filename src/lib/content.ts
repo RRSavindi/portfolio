@@ -74,6 +74,34 @@ export const PROJECTS: Project[] = [
   
 ];
 
+export interface Certificate {
+  title: string;
+  issuer: string;
+  date: string;
+  credentialUrl: string;
+}
+
+export const CERTIFICATES: Certificate[] = [
+  {
+    title: 'Introduction to C#',
+    issuer: 'Sololearn',
+    date: '2026',
+    credentialUrl: '#',
+  },
+  {
+    title: 'Python for Beginniners',
+    issuer: 'Open Learning Platform UoM',
+    date: '2026',
+    credentialUrl: '#',
+  },
+  {
+    title: 'JavaScript Algorithms and Data Structures',
+    issuer: 'freeCodeCamp',
+    date: '2023',
+    credentialUrl: '#',
+  },
+];
+
 export interface ExperienceItem {
   role: string;
   company: string;
