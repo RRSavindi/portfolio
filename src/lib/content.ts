@@ -42,7 +42,7 @@ export const PROJECTS: Project[] = [
     accent: 'from-indigo-500/20 to-blue-500/10',
   },
   {
-    title: 'Plant HouseWebsite – Leaf and Petals (Personal Project)',
+    title: 'Plant House Website – Leaf and Petals (Personal Project)',
     role: 'Frontend Developer',
     description:
       'A responsive plant e-commerce web application built with React.js and Tailwind CSS, featuring product listings, authentication, shopping cart, and checkout interfaces with a modern user-friendly design.',
@@ -52,11 +52,11 @@ export const PROJECTS: Project[] = [
     accent: 'from-emerald-500/20 to-teal-500/10',
   },
   {
-    title: 'Coffee Shop Web App (Personal Project)',
+    title: 'Portfolio Web Application',
     role: 'Frontend Developer',
     description:
-      'A modern and visually appealing coffee shop website designed to showcase beverages, menu items, and shop information. The application provides an engaging user experience with a responsive design, attractive product presentation, and smooth navigation across different devices.',
-    tech: ['Next.js', 'Tailwind CSS'],
+      'A modern responsive developer portfolio showcasing my projects, technical skills, experience, and professional profile with a clean and interactive UI.',
+    tech: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Emailjs', 'Vercel'],
     link: '',
     github: '#',
     accent: 'from-purple-500/20 to-fuchsia-500/10',
@@ -92,12 +92,6 @@ export const CERTIFICATES: Certificate[] = [
     title: 'Python for Beginniners',
     issuer: 'Open Learning Platform UoM',
     date: '2026',
-    credentialUrl: '#',
-  },
-  {
-    title: 'JavaScript Algorithms and Data Structures',
-    issuer: 'freeCodeCamp',
-    date: '2023',
     credentialUrl: '#',
   },
 ];
