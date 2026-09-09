@@ -57,8 +57,8 @@ export const PROJECTS: Project[] = [
     description:
       'A modern responsive developer portfolio showcasing my projects, technical skills, experience, and professional profile with a clean and interactive UI.',
     tech: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Emailjs', 'Vercel'],
-    link: '',
-    github: '#',
+    link: '#',
+    github: '',
     accent: 'from-purple-500/20 to-fuchsia-500/10',
   },
   {
