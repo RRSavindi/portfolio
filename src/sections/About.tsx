@@ -68,7 +68,7 @@ export default function About() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="mb-4 text-lg leading-relaxed text-zinc-400 light:text-zinc-600"
             >
-              I'm a full-stack web developer with a strong focus on frontend development and UI/UX design.
+              I'm a Software Engineer with a strong focus on frontend development and UI/UX design.
             </motion.p>
             <motion.p
               initial={{ opacity: 0, y: 20 }}

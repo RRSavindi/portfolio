@@ -1,7 +1,7 @@
 export const SITE = {
   name: 'Raneesh Savindi', 
-  title: 'Software Developer | Full-Stack Developer | Frontend Developer | UI/UX Designer',
-  tagline: 'A Web Developer with a curious mind and a love for turning ideas into interactive digital experiences.',
+  title: 'Software Engineer | Full-Stack Developer | Frontend Developer | UI/UX Designer',
+  tagline: 'A Developer with a curious mind and a love for turning ideas into interactive digital experiences.',
   email: 'raneeshasavindi53@gmail.com',
   location: 'Hambantota, Sri Lanka',
   currentRole: 'Software Engineer Intern', 
