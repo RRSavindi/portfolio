@@ -86,7 +86,7 @@ export const CERTIFICATES: Certificate[] = [
     title: 'Introduction to C#',
     issuer: 'Sololearn',
     date: '2026',
-    credentialUrl: '#',
+    credentialUrl: 'https://www.sololearn.com/certificates/CC-2KTXQ1JF',
   },
   {
     title: 'Python for Beginniners',
